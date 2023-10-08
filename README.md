@@ -4,3 +4,9 @@ A simple Neural Network Model to predict housing prices based on house features 
 
 
 ![Screenshot of platform](data.JPG)
+
+-Mean Absolute Error (MAE): 0.45
+-Mean Squared Error (MSE): 0.42
+-Root Mean Squared Error (RMSE): 0.65
+-R-squared (R^2): 0.63
+
